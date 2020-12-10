@@ -1,0 +1,28 @@
+a {
+	color: inherit;
+}
+
+a:hover {
+	color: inherit;
+}
+
+.ant-btn {
+	border: 0;
+}
+
+.table-row-dark {
+    background-color: #f3fff0 !important;
+}
+
+.ant-layout-footer {
+	background: #ffffff;
+}
+
+.ant-card-actions {
+	border-radius: 10px;
+}
+
+.ant-layout-content {
+	overflow-x: hidden;
+	overflow-y: auto;
+}

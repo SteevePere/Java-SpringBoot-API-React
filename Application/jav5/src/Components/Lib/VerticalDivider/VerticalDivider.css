@@ -1,0 +1,6 @@
+.verticalDivider {
+	width: 1px;
+	border: none;
+	border-left: 1px solid;
+	color: #D3D3D3;
+}

@@ -1,0 +1,9 @@
+#milestone_card {
+	text-align: left;
+	box-shadow: 0 3px 7px rgba(0, 0, 0, 0.11), 0 5px 5px rgba(0, 0, 0, 0.08);
+	border-radius: 10px;
+}
+
+#milestone_card:hover {
+	box-shadow: 0 3px 7px rgba(0, 0, 0, 0.18), 0 5px 5px rgba(0, 0, 0, 0.11);
+}
